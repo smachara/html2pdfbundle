@@ -1,7 +1,7 @@
 {
     "name": "smachara/html2pdfbundle",
     "type": "library",
-    "description": "=This is a Bundle to use the last version of spipu-Html2pdf as a service in Symfony2 applications. I did this bundle because 'ensepar/html2pdf-bundle' does not use the last versions of spipu-Html2pdf and TCPDF. The rest still the same.",
+    "description": "This is a Bundle to use the last version of spipu-Html2pdf as a service in Symfony2 applications. I did this bundle because 'ensepar/html2pdf-bundle' does not use the last versions of spipu-Html2pdf and TCPDF. The rest still the same.",
     "keywords": ["html", "pdf", "html2pdf"],
     "homepage": "http://SynfonyAventure.org/",
     "license": "LGPL",

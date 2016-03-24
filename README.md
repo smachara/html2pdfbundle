@@ -9,7 +9,7 @@ Installation
 ------------
 ### Step 1: Setup Bundle and dependencies
 ```
-composer require smachara/html2pdf-bundle
+composer require smachara/html2pdfbundle
 ```
 
 ### Step 2: Configure the autoloader
@@ -20,7 +20,7 @@ Add the `smachara` namespace to your autoloader:
 // app/autoload.php
 <?php
 // ...
-$loader->add('smachara', __DIR__.'/../vendor');
+$loader->add('smachara',   __DIR__ . '/../vendor');
 ```
 
 ### Step 3: Enable the bundle in the kernel
