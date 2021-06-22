@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.2",
-        "spipu/html2pdf": "^4.5"
+        "php": ">=7.0",
+        "spipu/html2pdf": "^5.2"
     },
     "autoload": {
         "psr-0": { "smachara\\html2pdfbundle": "" }
